@@ -1,4 +1,5 @@
-# Sado Island Tour [ 23rd (Friday) -> 26th (Monday) ] - **3 nights (4 days)**
+# Sado Island Tour [ 23rd (Friday) -> 26th (Monday) ]
+## **3 nights (4 days)**
 
 Sadokisen (Jetfoil)
 * 23rd -> 7:55 AM first ferry (Niigata)
