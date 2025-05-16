@@ -8,14 +8,14 @@ Shinkansen via Takasaki (cheaper)
 
 ## TO: -
 - Kawagoe->Niigata - [Google Maps](https://maps.app.goo.gl/nwGA8BAyHVgGYVZY9)
-* Leave at 5:00 -> Niigata at 8:42 (unpack and ride to port - 1 hr) 
+* Leave at 5:00 -> Niigata at 8:42 (unpack and ride to port - 1 hr)
 * Ferry at 11:30 -> 12:37 (Arrive Sado) Google says total cost is ¥9,590 for train)
 * Jetfoil round trip -> 13,510yen (+ 520 each way for bicycle)
 
 ## FROM: -
 - Niigata->Kawagoe - [GoogleMaps](https://maps.app.goo.gl/Cqp1Dawb6UkengGC9)
 * Ferray departs 17:55 arrives at Niigata port at 19:02
-* Be at Train station Niigata at 8.00pm 
+* Be at Train station Niigata at 8.00pm
 * Back at apartment 00:30
 
 ---------------------------------------------------------------------
@@ -51,9 +51,9 @@ Stay: RosenCat (¥4,549) - arrive late (+8pm).
 * Aikawa (Gold Mine)
 * ZSlope
 * Onogame
-* Futatsugame - Two turtles (Ceder Forest) 
+* Futatsugame - Two turtles (Ceder Forest)
 * Washizaki
- 
+
 Stay: RosenCat (¥4,549) - arrive late (+8pm).
 
 ### 26th explore middle + return evening.
@@ -65,6 +65,7 @@ RosenCat -> Ryotsu travel time (11km - ~35mins) - be at terminal for 17:55
 
 
 ## Estimate Cost/Budget
+
 * Train 9,590yen
 * Ferry 13510yen
 * Accomodation 3x 4549 (13647yen)
@@ -72,12 +73,13 @@ RosenCat -> Ryotsu travel time (11km - ~35mins) - be at terminal for 17:55
 
 **TOTAL - 54747 yen**
 
-## References: 
-Course -> <https://www.visitsado.com/en/sado/cycling/course1-1/>
-Accomodation -> <https://www.booking.com/Share-peczQ2>
-<https://en.enjoysado.net/>
-<https://www.sadokisen.co.jp/en/reservation/timetables/?route=1>
+## References:
 
-<https://www.youtube.com/watch?v=9pJ53wjPeLA> **!! (Shukunegi) !!**
-<https://www.youtube.com/watch?v=OhPbm53M-10>
-<https://www.youtube.com/watch?v=dE0BHt6qqyQ>
+* Course -> <https://www.visitsado.com/en/sado/cycling/course1-1/>
+* Accomodation -> <https://www.booking.com/Share-peczQ2>
+* <https://en.enjoysado.net/>
+* <https://www.sadokisen.co.jp/en/reservation/timetables/?route=1>
+
+* <https://www.youtube.com/watch?v=9pJ53wjPeLA> **!! (Shukunegi) !!**
+* <https://www.youtube.com/watch?v=OhPbm53M-10>
+* <https://www.youtube.com/watch?v=dE0BHt6qqyQ>
