@@ -7,13 +7,13 @@ Sadokisen (Jetfoil)
 Shinkansen via Takasaki (cheaper)
 
 ## TO: -
-- Kawagoe->Niigata - https://maps.app.goo.gl/nwGA8BAyHVgGYVZY9
+- Kawagoe->Niigata - [Google Maps](https://maps.app.goo.gl/nwGA8BAyHVgGYVZY9)
 * Leave at 5:00 -> Niigata at 8:42 (unpack and ride to port - 1 hr) 
 * Ferry at 11:30 -> 12:37 (Arrive Sado) Google says total cost is ¥9,590 for train)
 * Jetfoil round trip -> 13,510yen (+ 520 each way for bicycle)
 
 ## FROM: -
-- Niigata->Kawagoe - https://maps.app.goo.gl/Cqp1Dawb6UkengGC9
+- Niigata->Kawagoe - [GoogleMaps](https://maps.app.goo.gl/Cqp1Dawb6UkengGC9)
 * Ferray departs 17:55 arrives at Niigata port at 19:02
 * Be at Train station Niigata at 8.00pm 
 * Back at apartment 00:30
@@ -28,7 +28,7 @@ Shinkansen via Takasaki (cheaper)
 
 Stay: RosenCat (¥4,549)
 
-### 24th cycle Kosada[south] (https://www.strava.com/routes/3358253845177812002 - 97km 5hr) 
+### 24th cycle Kosada[south] [Strava 97km 5 hr](https://www.strava.com/routes/3358253845177812002)
 6am start
 
 * Shuizu
@@ -43,7 +43,7 @@ Stay: RosenCat (¥4,549)
 
 Stay: RosenCat (¥4,549) - arrive late (+8pm).
 
-### 25th cycle Osada[north] (https://www.strava.com/routes/3358254109359809570 - 100km 5hr)
+### 25th cycle Osada[north] [Strava 100km 5 hr](https://www.strava.com/routes/3358254109359809570)
 6-8am start
 
 * Meotoiwa Rocks
@@ -59,8 +59,8 @@ Stay: RosenCat (¥4,549) - arrive late (+8pm).
 ### 26th explore middle + return evening.
 6-8am start
 
-* Option: 1200m climb -> (https://www.strava.com/routes/3358254902133198882 ~2-3hr)
-* Option: https://www.strava.com/routes/3358274378161801440 (1.5hr)
+* Option: 1200m climb -> [Strava 2-3hr](https://www.strava.com/routes/3358254902133198882)
+* Option: [Strava 1.5hr](https://www.strava.com/routes/3358274378161801440)
 RosenCat -> Ryotsu travel time (11km - ~35mins) - be at terminal for 17:55
 
 
@@ -73,11 +73,11 @@ RosenCat -> Ryotsu travel time (11km - ~35mins) - be at terminal for 17:55
 **TOTAL - 54747 yen**
 
 ## References: 
-Course -> https://www.visitsado.com/en/sado/cycling/course1-1/
-Accomodation -> https://www.booking.com/Share-peczQ2
-https://en.enjoysado.net/
-https://www.sadokisen.co.jp/en/reservation/timetables/?route=1
+Course -> <https://www.visitsado.com/en/sado/cycling/course1-1/>
+Accomodation -> <https://www.booking.com/Share-peczQ2>
+<https://en.enjoysado.net/>
+<https://www.sadokisen.co.jp/en/reservation/timetables/?route=1>
 
-https://www.youtube.com/watch?v=9pJ53wjPeLA **!! (Shukunegi) !!**
-https://www.youtube.com/watch?v=OhPbm53M-10
-https://www.youtube.com/watch?v=dE0BHt6qqyQ
+<https://www.youtube.com/watch?v=9pJ53wjPeLA> **!! (Shukunegi) !!**
+<https://www.youtube.com/watch?v=OhPbm53M-10>
+<https://www.youtube.com/watch?v=dE0BHt6qqyQ>
