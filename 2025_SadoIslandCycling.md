@@ -23,6 +23,7 @@ Shinkansen via Takasaki (cheaper)
 ## Schedule
 
 ### 23rd afternoon ride around Sado Central (Kuninaka)
+
 * Toki no Terrace (Toki seem like Kiwi?)
 * Rice field art
 * Sunflower field
@@ -57,7 +58,7 @@ Stay: RosenCat (¥4,549) - arrive late (+8pm).
 
 Stay: RosenCat (¥4,549) - arrive late (+8pm).
 
-### 26th explore middle + return evening.
+### 26th explore Sado Central (Kuninaka) (middle2) + return evening.
 6-8am start
 
 * Option: 1200m climb -> [Strava 2-3hr](https://www.strava.com/routes/3358254902133198882)
@@ -84,3 +85,6 @@ RosenCat -> Ryotsu travel time (11km - ~35mins) - be at terminal for 17:55
 * <https://www.youtube.com/watch?v=9pJ53wjPeLA> **!! (Shukunegi) !!**
 * <https://www.youtube.com/watch?v=OhPbm53M-10>
 * <https://www.youtube.com/watch?v=dE0BHt6qqyQ>
+
+
+< https://github.com/thornley-david/travel/blob/main/2025_SadoIslandCycling.md >
